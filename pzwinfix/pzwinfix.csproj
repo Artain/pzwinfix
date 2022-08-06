@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows10.0.17763.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <PackageIcon>ProjectZomboid64_1.ico</PackageIcon>
+    <Platforms>AnyCPU;x64</Platforms>
+    <ApplicationIcon>ProjectZomboid64_1.ico</ApplicationIcon>
+    <RunAnalyzersDuringBuild>False</RunAnalyzersDuringBuild>
+    <RunAnalyzersDuringLiveAnalysis>False</RunAnalyzersDuringLiveAnalysis>
+    <EnableNETAnalyzers>False</EnableNETAnalyzers>
+    <PackageProjectUrl>https://github.com/Artain/pzwinfix</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Artain/pzwinfix</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="ProjectZomboid64_1.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="H:\Windows\Pictures\ProjectZomboid64_1.ico">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pzwinfix", "pzwinfix\pzwinfix.csproj", "{39A5A2F2-DCF6-4414-B1A6-C293D9E3122D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39A5A2F2-DCF6-4414-B1A6-C293D9E3122D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A5A2F2-DCF6-4414-B1A6-C293D9E3122D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A5A2F2-DCF6-4414-B1A6-C293D9E3122D}.Debug|x64.ActiveCfg = Debug|x64
+		{39A5A2F2-DCF6-4414-B1A6-C293D9E3122D}.Debug|x64.Build.0 = Debug|x64
+		{39A5A2F2-DCF6-4414-B1A6-C293D9E3122D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A5A2F2-DCF6-4414-B1A6-C293D9E3122D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39A5A2F2-DCF6-4414-B1A6-C293D9E3122D}.Release|x64.ActiveCfg = Release|x64
+		{39A5A2F2-DCF6-4414-B1A6-C293D9E3122D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {696B46F6-9EBD-4B53-A968-A257A2D1F511}
+	EndGlobalSection
+EndGlobal
